@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2024
  *
  */
-#include "include/walker.hpp"
+#include "/home/dhairya/ws2/my_gazebo_tutorials/src/walker/include/walker.hpp"
 
 #define MAX_FORWARD_SPEED 0.2
 #define MAX_ROTATION_SPEED 0.4
