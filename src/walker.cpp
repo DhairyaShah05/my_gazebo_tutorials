@@ -10,10 +10,10 @@
  */
 #include "/home/dhairya/ws2/my_gazebo_tutorials/src/walker/include/walker.hpp"
 
-#define MAX_FORWARD_SPEED 0.5
-#define MAX_ROTATION_SPEED 0.5
-#define DISTANCE_THRESHOLD 1.0
-#define ROTATION_DISTANCE_THRESHOLD 1.0
+#define MAX_FORWARD_SPEED 0.1
+#define MAX_ROTATION_SPEED 0.3
+#define DISTANCE_THRESHOLD 0.5
+#define ROTATION_DISTANCE_THRESHOLD 1.5
 
 // Walker class definition
 Walker::Walker() : Node("walker") {
